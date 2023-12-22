@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'Retro Land Mayhem';
+    src: url('fonts/retro-land-mayhem.ttf');
+}
+
+.text{
+    -fx-font-family: "Retro Land Mayhem";
+}
